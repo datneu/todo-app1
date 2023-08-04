@@ -55,7 +55,7 @@ export default function Home() {
   return (
     <>
       <header className={styles.header}>
-        <h1 className={styles.title}>#todo</h1>
+        <h1 className={styles.title}>todo-app</h1>
       </header>
 
       <main className={styles.main}>
